@@ -1,5 +1,5 @@
-public class main {
-    public static void Run(String[] args){
+public class Main {
+    public static void main(String[] args){
         System.out.print(StringBalanceChecker.stringBalanceCheck(args[0]));
     }
 }
